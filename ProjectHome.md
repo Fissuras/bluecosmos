@@ -1,0 +1,1 @@
+Blue Cosmos is an ikaruga-like shmup, that is to say with a wonderful gameplay
